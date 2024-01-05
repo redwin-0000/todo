@@ -115,7 +115,7 @@ const styles = StyleSheet.create({
   area: {
     flex: 1,
     backgroundColor: '#000000',
-    // height: 755,
+   
   },
   todo_body: {
     flex: 1,

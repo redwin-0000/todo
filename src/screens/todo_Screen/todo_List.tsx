@@ -221,7 +221,6 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     flexDirection: 'row',
-    // flexWrap: 'wrap',
     marginTop: 20,
     marginRight: 12,
   },
@@ -235,8 +234,6 @@ const styles = StyleSheet.create({
   },
   data: {
     flexDirection: 'column',
-    // justifyContent: 'center',
-    // alignItems: 'center',
     padding: 10,
   },
   editContainer: {
@@ -260,7 +257,6 @@ const styles = StyleSheet.create({
     borderBottomWidth: 3,
     fontSize: 20,
     fontWeight: '500',
-    // padding:10
   },
   saveButton: {
     color: 'black',
